@@ -1,2 +1,1 @@
 # marikkaratist.github.io
-site
