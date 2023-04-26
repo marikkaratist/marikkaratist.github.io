@@ -1,1 +1,0 @@
-# marikkaratist.github.io
